@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davi332
 - 👀 I’m interested in: Game Dev, AI
 - 🌱 I’m currently learning: solidity
-- 📫 How to reach me: YouTube: https://youtu.be/Y-BG9KTesUM
+- 📫 How to reach me: YouTube: https://www.youtube.com/channel/UCDqjm3sHzayJ7Bz-6BD4k2Q)
 
 <!---
 davi332/davi332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
